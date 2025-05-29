@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\Super_Mario\\Super_Mario\\Super_Mario.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\Super_Mario\\Super_Mario.csproj",
       "projectName": "Super_Mario",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\Super_Mario\\Super_Mario\\Super_Mario.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\Super_Mario\\Super_Mario.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\Super_Mario\\Super_Mario\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\Super_Mario\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
