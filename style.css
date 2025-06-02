@@ -22,18 +22,27 @@
     width: 150px;
     position: absolute;
     bottom: 0;
-}
-
-@keyframes jum {
-    
+    animation: jump 500ms;
 }
 
 @keyframes pipe-animation {
-    from {
-        right: -80px;
+    inicio 0
+
+    meio 180px
+
+    fim 0;
+    
+}
+
+@keyframes jum {
+    0% {
+        bottom: 0;
     }
-    to {
-        right: 100%;
+    50% {
+        bottom: 180px;
+    }
+    100% {
+        bottom: 0;
     }
     
 }
