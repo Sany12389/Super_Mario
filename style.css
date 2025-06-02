@@ -22,9 +22,11 @@
     width: 150px;
     position: absolute;
     bottom: 0;
-    animation: jump 500ms;
 }
 
+jump {
+    animation: jum 500ms ease-out;
+}
 @keyframes pipe-animation {
     inicio 0
 
@@ -38,7 +40,13 @@
     0% {
         bottom: 0;
     }
+    40% {
+        bottom: 180px;
+    }
     50% {
+        bottom: 180px;
+    }
+    60% {
         bottom: 180px;
     }
     100% {
