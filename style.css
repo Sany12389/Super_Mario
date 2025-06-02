@@ -30,11 +30,12 @@ jump {
     animation: jum 500ms ease-out;
 }
 @keyframes pipe-animation {
-    inicio 0
-
-    meio 180px
-
-    fim 0;
+from {
+        right: 100%-80px;
+    }
+    to {
+        right: 100%;
+    }
     
 }
 
