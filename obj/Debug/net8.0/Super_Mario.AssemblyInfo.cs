@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Super_Mario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd2213db86d91ed4894b14ed251f3001079ae1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ec0f6cdac7ad7bcf992311badfd7e8c5a7aba5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Super_Mario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Super_Mario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
